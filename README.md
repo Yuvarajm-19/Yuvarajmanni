@@ -1,4 +1,4 @@
-# Hello, I'm Yuvara! 👋
+# Hello, I'm Yuvaraj! 👋
 
 🎓 **B.Tech in Artificial Intelligence and Data Science Student** <br>
 💻 **Passionate Developer and Aspiring Data Scientist** <br>
@@ -7,17 +7,17 @@
 
 ## 🛠️ Languages and Technologies
 
-- ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) **C**
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) **Java**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) **Python**
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) **HTML**
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) **CSS**
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) **Bootstrap**
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) **React**
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) **JavaScript**
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) **MySQL**
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) **Express.js**
+ ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) 
+ ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+ ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+ ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+ ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
+ ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) 
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
+ ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
 ## 🌱 Currently Learning
 
