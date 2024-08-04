@@ -32,14 +32,7 @@
 ## 📫 How to Reach Me
 
 - ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white): yuvaraj79043@gmail.com
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white): [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white): [Your GitHub Profile](https://github.com/your-username)
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white): [Your LinkedIn Profile](linkedin.com/in/yuvaraj-m-515572259)
 ## 🏆 LeetCode Stats
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/yuvaraj79043?theme=wtf&font=patrick_hand&extension=null)
